@@ -2,12 +2,12 @@
 //
 // Ask the user to enter a word. Keep asking them to enter a word until they enter the letter 'q'.
 
-// while (0 === 0){
-//     var userInput = prompt("Enter a word.");
-//     if (userInput.toUpperCase() === "Q"){
-//         break;
-//     }
-// }
+while (0 === 0){
+    var userInput = prompt("Enter a word.");
+    if (userInput.toUpperCase() === "Q"){
+        break;
+    }
+}
 
 //     Problem 2
 // Make any string array all lower case strings. If you don't remember how to use that Google it.
